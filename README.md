@@ -37,5 +37,28 @@ We have successfully indexed several novel sequences in the Online Encyclopedia 
 
 ---
 
+**Fostering Collaboration.**
+
+Marrero Research also seeks to foster collaboration with computer science disciplines, as this interdisciplinary approach aims to improve research results and the wider applicability of findings across different fields. 
+
+* So you're welcome to collab with us, fellow Dev or Researcher.
+
+---
+
+**Educational Outreach.**
+
+We want to promote mathematical knowledge through educational initiatives. By sharing research findings and methodologies, Marrero Research aims to inspire students and educators who are always seeking to improve mathematics education. 
+
+---
+
+## Contact US
+
+* E-Mail: marreroresearch@gmail.com
+* LinkedIn page
+* Twitter
+* ResearchGate Lab
+
+
+
 
 
