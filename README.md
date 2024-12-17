@@ -54,9 +54,9 @@ We want to promote mathematical knowledge through educational initiatives. By sh
 ## Contact US
 
 * E-Mail: marreroresearch@gmail.com
-* LinkedIn page
-* Twitter
-* ResearchGate Lab
+* LinkedIn page (Soon)
+* Twitter (Soon)
+* ResearchGate Lab (Soon)...
 
 
 
