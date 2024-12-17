@@ -26,6 +26,16 @@ To date, our research has included not only pure mathematics but also the use of
 
 ---
 
-**Impact.**
+**Contributions to The Discrete Mathematics and The OEIS (On-Line Encyclopedia of Integer Sequences).**
+
+Marrero Research has developed a robust Mathematica code (Wolfram Language) that can reproduce OEIS integer sequences, providing researchers and educators with a convenient and accessible means of accessing and understanding these sequences.
+
+We have successfully indexed several novel sequences in the Online Encyclopedia of Integer Sequences (OEIS.org) and contributed new general formulas that have been incorporated into existing integer sequences already indexed in the OEIS.   
+
+* [OEIS-Wiki Page (to consult our work already published in the OEIS)](https://oeis.org/wiki/User:Paul_F._Marrero_Romero) 
+* [Github repository dedicated to our work contributed to the OEIS (M-OEIS)](https://github.com/paulfmarrero/M-OEIS)
+
+---
+
 
 
