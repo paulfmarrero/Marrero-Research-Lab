@@ -54,9 +54,10 @@ We want to promote mathematical knowledge through educational initiatives. By sh
 ## Contact US
 
 * E-Mail: marreroresearch@gmail.com
+* [Our Lab at ResearchGate](https://www.researchgate.net/lab/Marrero-Research-Lab-Orlando-Ramon-Marrero)
 * LinkedIn page (Soon)
 * Twitter (Soon)
-* ResearchGate Lab (Soon)...
+
 
 
 
